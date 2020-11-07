@@ -12,7 +12,7 @@ class FirstRoute extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('First Route'),
+        title: Text('Trang đầu'),
       ),
       body: Center(
         child: RaisedButton(
@@ -34,7 +34,7 @@ class SecondRoute extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Second Route"),
+        title: Text("Trang hai"),
       ),
       body: Center(
         child: RaisedButton(
